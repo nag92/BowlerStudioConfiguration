@@ -8,14 +8,14 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://gist.github.com/e54cfebe4f55fb0549dd.git:ExampleCadGenerator.groovy": [
-      "https://gist.github.com/e54cfebe4f55fb0549dd.git",
+    "https://gist.github.com/81fc643c3dc5a127ca3c51fa3bcb3a2e.git:ExampleCadGenerator.groovy": [
+      "https://gist.github.com/81fc643c3dc5a127ca3c51fa3bcb3a2e.git",
       "ExampleCadGenerator.groovy"
     ]
   },
   "BowlerStudioConfigs": {
     "firstVersion": "0.22.1",
-    "fontsize": 16,
+    "fontsize": 16.0,
     "skinBranch": "0.22.1",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true
