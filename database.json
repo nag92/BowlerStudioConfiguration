@@ -7,12 +7,6 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {
-    "https://gist.github.com/8b6320ae6851fd179f4d0fc26b77b8ac.git:ExampleCadGenerator.groovy": [
-      "https://gist.github.com/8b6320ae6851fd179f4d0fc26b77b8ac.git",
-      "ExampleCadGenerator.groovy"
-    ]
-  },
   "BowlerStudioConfigs": {
     "firstVersion": "0.22.1",
     "fontsize": 16.0,
