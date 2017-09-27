@@ -11,6 +11,10 @@
     "https://gist.github.com/81fc643c3dc5a127ca3c51fa3bcb3a2e.git:ExampleCadGenerator.groovy": [
       "https://gist.github.com/81fc643c3dc5a127ca3c51fa3bcb3a2e.git",
       "ExampleCadGenerator.groovy"
+    ],
+    "https://gist.github.com/81fc643c3dc5a127ca3c51fa3bcb3a2e.git:CreatureCadGenerator.groovy": [
+      "https://gist.github.com/81fc643c3dc5a127ca3c51fa3bcb3a2e.git",
+      "CreatureCadGenerator.groovy"
     ]
   },
   "BowlerStudioConfigs": {
