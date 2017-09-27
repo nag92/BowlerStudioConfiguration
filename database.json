@@ -7,7 +7,12 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/81fc643c3dc5a127ca3c51fa3bcb3a2e.git:CreatureCadGenerator.groovy": [
+      "https://gist.github.com/81fc643c3dc5a127ca3c51fa3bcb3a2e.git",
+      "CreatureCadGenerator.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "firstVersion": "0.22.1",
     "fontsize": 12.0,
