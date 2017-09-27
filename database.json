@@ -8,13 +8,9 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://gist.github.com/81fc643c3dc5a127ca3c51fa3bcb3a2e.git:ExampleCadGenerator.groovy": [
-      "https://gist.github.com/81fc643c3dc5a127ca3c51fa3bcb3a2e.git",
+    "https://gist.github.com/8b6320ae6851fd179f4d0fc26b77b8ac.git:ExampleCadGenerator.groovy": [
+      "https://gist.github.com/8b6320ae6851fd179f4d0fc26b77b8ac.git",
       "ExampleCadGenerator.groovy"
-    ],
-    "https://gist.github.com/81fc643c3dc5a127ca3c51fa3bcb3a2e.git:CreatureCadGenerator.groovy": [
-      "https://gist.github.com/81fc643c3dc5a127ca3c51fa3bcb3a2e.git",
-      "CreatureCadGenerator.groovy"
     ]
   },
   "BowlerStudioConfigs": {
