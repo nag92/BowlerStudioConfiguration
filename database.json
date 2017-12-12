@@ -19,6 +19,10 @@
     "https://github.com/madhephaestus/SeriesElasticActuator.git:FullHardwareLaunch.groovy": [
       "https://github.com/madhephaestus/SeriesElasticActuator.git",
       "FullHardwareLaunch.groovy"
+    ],
+    "https://github.com/StrokeRehabilitationRobot/SeriesElasticActuator.git:seaLinkGen.groovy": [
+      "https://github.com/StrokeRehabilitationRobot/SeriesElasticActuator.git",
+      "seaLinkGen.groovy"
     ]
   },
   "BowlerStudioConfigs": {
