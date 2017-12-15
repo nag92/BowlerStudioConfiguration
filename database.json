@@ -11,18 +11,6 @@
     "https://github.com/StrokeRehabilitationRobot/SeriesElasticActuator.git:LaunchHardware.groovy": [
       "https://github.com/StrokeRehabilitationRobot/SeriesElasticActuator.git",
       "LaunchHardware.groovy"
-    ],
-    "https://gist.github.com/e54cfebe4f55fb0549dd.git:ExampleCadGenerator.groovy": [
-      "https://gist.github.com/e54cfebe4f55fb0549dd.git",
-      "ExampleCadGenerator.groovy"
-    ],
-    "https://github.com/madhephaestus/SeriesElasticActuator.git:FullHardwareLaunch.groovy": [
-      "https://github.com/madhephaestus/SeriesElasticActuator.git",
-      "FullHardwareLaunch.groovy"
-    ],
-    "https://github.com/StrokeRehabilitationRobot/SeriesElasticActuator.git:seaLinkGen.groovy": [
-      "https://github.com/StrokeRehabilitationRobot/SeriesElasticActuator.git",
-      "seaLinkGen.groovy"
     ]
   },
   "BowlerStudioConfigs": {
