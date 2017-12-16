@@ -8,8 +8,8 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://github.com/StrokeRehabilitationRobot/SeriesElasticActuator.git:LaunchHardware.groovy": [
-      "https://github.com/StrokeRehabilitationRobot/SeriesElasticActuator.git",
+    "https://github.com/nag92/SeriesElasticActuator.git:LaunchHardware.groovy": [
+      "https://github.com/nag92/SeriesElasticActuator.git",
       "LaunchHardware.groovy"
     ]
   },
