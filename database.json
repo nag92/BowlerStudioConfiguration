@@ -11,6 +11,10 @@
     "https://github.com/nag92/SeriesElasticActuator.git:LaunchHardware.groovy": [
       "https://github.com/nag92/SeriesElasticActuator.git",
       "LaunchHardware.groovy"
+    ],
+    "https://github.com/madhephaestus/SeriesElasticActuator.git:FullHardwareLaunch.groovy": [
+      "https://github.com/madhephaestus/SeriesElasticActuator.git",
+      "FullHardwareLaunch.groovy"
     ]
   },
   "BowlerStudioConfigs": {
