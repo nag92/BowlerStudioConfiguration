@@ -7,7 +7,12 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/StrokeRehabilitationRobot/SeriesElasticActuator.git:MiraLink.groovy": [
+      "https://github.com/StrokeRehabilitationRobot/SeriesElasticActuator.git",
+      "MiraLink.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "firstVersion": "0.22.1",
     "fontsize": 16.0,
