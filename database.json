@@ -8,9 +8,29 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://github.com/StrokeRehabilitationRobot/SeriesElasticActuator.git:FullHardwareLaunch.groovy": [
-      "https://github.com/StrokeRehabilitationRobot/SeriesElasticActuator.git",
-      "FullHardwareLaunch.groovy"
+    "https://github.com/madhephaestus/SeriesElasticActuator.git:seaLinkGen.groovy": [
+      "https://github.com/madhephaestus/SeriesElasticActuator.git",
+      "seaLinkGen.groovy"
+    ],
+    "https://github.com/madhephaestus/SeriesElasticActuator.git:encoderBoard.groovy": [
+      "https://github.com/madhephaestus/SeriesElasticActuator.git",
+      "encoderBoard.groovy"
+    ],
+    "https://github.com/madhephaestus/SeriesElasticActuator.git:loadCell.groovy": [
+      "https://github.com/madhephaestus/SeriesElasticActuator.git",
+      "loadCell.groovy"
+    ],
+    "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git:bearing.groovy": [
+      "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git",
+      "bearing.groovy"
+    ],
+    "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git:capScrew.groovy": [
+      "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git",
+      "capScrew.groovy"
+    ],
+    "https://gist.github.com/8d15db45599814667f8be1f3910806eb.git:lockNut.groovy": [
+      "https://gist.github.com/8d15db45599814667f8be1f3910806eb.git",
+      "lockNut.groovy"
     ]
   },
   "BowlerStudioConfigs": {
